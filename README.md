@@ -50,16 +50,3 @@
     <a href="https://www.instagram.com/_mainak_das_/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
    
 </p>
-
-<a href="https://github.com/jstrieb/github-stats">
-    
-![](https://github.com/mainak17/mainak17/blob/master/generated/overview.svg)
-![](https://github.com/mainak17/mainak17/blob/master/generated/languages.svg)
-
-</a>
-
-
-
-
-
-
