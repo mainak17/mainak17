@@ -33,11 +33,11 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">
+  <p>
     <a href="https://github.com/mainak17/github-readme-stats"><img alt="Mainak Das's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mainak17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   <a href="https://github.com/mainak17/github-readme-stats"><img alt="Mainak Das's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainak17&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+  
 </p>
 <br/>
 <p align="center">
