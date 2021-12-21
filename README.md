@@ -8,6 +8,8 @@
 - I like to explore different technologies from Electronics to Data Science.
 - Trying to improve my problem solving skills as well as my EDA skills.
 
+---
+
 ## 🚀 Languages and Tools I mostly use :
 
 <p> 
