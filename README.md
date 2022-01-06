@@ -26,10 +26,10 @@
 
 </p>
 
-## Checkout My Recent Work
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=mainak17)](https://medium.com/@mainak17)
+## Checkout My Recent Medium Article
+<!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=mainak17)](https://medium.com/@mainak17) -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0" alt="Recent Article 0">
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
