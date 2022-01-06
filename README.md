@@ -29,6 +29,8 @@
 ## Checkout My Recent Work
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=mainak17)](https://medium.com/@mainak17)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mainak17">
