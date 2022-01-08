@@ -26,7 +26,7 @@
 
 </p>
 
-## 📑 Checkout My Recent Medium Article
+## 📑 Checkout My Latest Medium Article
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=mainak17)](https://medium.com/@mainak17) -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0" alt="Recent Article 0">
