@@ -6,7 +6,7 @@
 
 -  Currently Working as an <b> Assistant System Engineer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services </a>
 - I like to explore different technologies from Electronics to Data Science.
-- Trying to improve my problem solving skills as well as my EDA skills.
+- Trying to improve my problem solving skills.
 
 
 ## 🚀 Languages and Tools I mostly use :
