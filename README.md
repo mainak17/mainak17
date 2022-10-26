@@ -22,6 +22,7 @@
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
+    <a href="https://airflow.apache.org/" target="_blank"> <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_transparent.png"/> </a>
     
 
 </p>
