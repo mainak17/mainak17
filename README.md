@@ -63,7 +63,7 @@
 
 ## 👨‍💻 Reach out to me 
 <p>
-    <a href="https://www.linkedin.com/in/mainak-das-111175179/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
+    <a href="https://www.linkedin.com/in/mainakdas1/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> </a>
     <a href="https://www.instagram.com/_mainak_das_/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> </a>
    
 </p>
