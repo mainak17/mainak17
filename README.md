@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
--  Currently Working as an <b> Assistant System Engineer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services </a>
+-  Currently Working as an <b> Systems Engineer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services </a>
 - I like to explore different technologies from Electronics to Data Science.
 - Trying to improve my problem solving skills.
 
@@ -31,9 +31,8 @@
 <!-- [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=mainak17)](https://medium.com/@mainak17) -->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/0" alt="Recent Article 0">
-
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/1" alt="Recent Article 1">
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mainak17/2" alt="Recent Article 2">
 
    
 
