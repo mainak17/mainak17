@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
--  Currently Working as an <b> Systems Engineer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services </a>
+-  Currently Working as an <b> Data Engineer </b> @ <a href="https://www.epsilon.com/apac"> Epsilon </a>
 - I like to explore different technologies from Electronics to Data Science.
 - Trying to improve my problem solving skills.
 
